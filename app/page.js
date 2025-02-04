@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main>
       <section className="bg-base-200">
-        <div className="max-w-3xl mx-auto  flex justify-between items-center px-8 py-2">
+        <div className="max-w-3xl mx-auto  flex justify-between items-center px-8 py-3">
           <div className="font-bold">TasteLoop</div>
           <div className="space-x-4 max-md:hidden">
             <a className="link link-hover">Pricing</a>
